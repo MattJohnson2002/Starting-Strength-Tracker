@@ -7,3 +7,4 @@ After which, you can choose from the options available and start tracking your p
 This current version only supports tracking benchpress, press, squat and deadlift
 Starting Strength eventually gets you doing chin ups, powercleans/barbell row
 These will eventually be added
+A demonstration of the program can be found here: https://www.youtube.com/watch?v=EUPLqQaEnOY
